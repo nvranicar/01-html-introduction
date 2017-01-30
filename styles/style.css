@@ -234,7 +234,7 @@ figure {
   background: #fff;
 
   filter: drop-shadow(0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.2));
-
+}
 
 .quote__card::after {
   content: '';
