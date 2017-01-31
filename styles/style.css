@@ -37,12 +37,12 @@ figure {
 }
 
 .app__content {
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .container {
-  max-width: 60 rem;
-  margin: 0.5 rem;
+  max-width: 60rem;
+  margin: 0 auto;
 }
 
 .top-nav {
@@ -116,7 +116,7 @@ figure {
 
 .section--hero {
   background: #eaeff2;
-  background: linear-gradient(to bottom, #cae1f4 0, rgba(125, 185, 232, 0.5) 100%);
+  background: linear-gradient(to bottom, #cae1f4, 0, rgba(125, 185, 232, 0.5) 100%);
 }
 
 .hero {
